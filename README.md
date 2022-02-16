@@ -8,3 +8,5 @@ This project was inspired by the paper “Social distancing in airplane seat ass
 edit_test
 
 test_user2
+
+test_user3
